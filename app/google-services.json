@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622597598300",
+    "firebase_url": "https://justbreathe-74ee5.firebaseio.com",
+    "project_id": "justbreathe-74ee5",
+    "storage_bucket": "justbreathe-74ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622597598300:android:5384984ad812af9405ca99",
+        "android_client_info": {
+          "package_name": "com.regera.justbreathe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622597598300-ffg9l2d5r35h7da1fb6t6m55h6tocbqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8x5hjk1gMtrXcJf5uwFZ8B8ucUqG_Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622597598300-ffg9l2d5r35h7da1fb6t6m55h6tocbqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
